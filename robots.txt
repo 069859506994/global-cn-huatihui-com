@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://069859506994.github.io/global-cn-huatihui-com/sitemap.xml
